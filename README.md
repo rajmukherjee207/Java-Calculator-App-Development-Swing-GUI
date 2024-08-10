@@ -32,3 +32,4 @@ My_Calculator is a Java-based application that provides a simple graphical user 
 - Adding memory functions like MS, M+, and M-.
 
 ---
+[Screen-Recording-2024-08-10T17_20_44.060Z.webm](https://github.com/user-attachments/assets/6abaaf88-fb07-4d66-87a6-876b08bed27b)
